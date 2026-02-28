@@ -91,13 +91,4 @@ Federal guidance requires banks to maintain rigorous model risk management frame
 - Define a monitoring strategy: track input feature distributions (PSI — Population Stability Index) and model output distributions over time.
 - Alert on concept drift (changing relationship between features and default) vs. data drift (shifting input distributions).
 
-## Relevance for Banking Careers
 
-This project demonstrates:
-
-1. **Technical fluency** — end-to-end ML pipeline from raw data to deployed model, using industry-standard tools (Python, LightGBM, SHAP, Spark).
-2. **Domain knowledge** — understanding of credit risk fundamentals, regulatory frameworks (Basel III, ECOA, SR 11-7), and how models fit into lending operations.
-3. **Systems thinking** — awareness of production concerns (scalability, serving, monitoring) beyond notebook-level analysis.
-4. **Communication** — ability to translate technical results into business-relevant insights for risk committees and regulators.
-
-These are precisely the skills valued in quantitative and technology roles at banks, fintechs, and credit risk consultancies.
