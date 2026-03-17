@@ -1,0 +1,15 @@
+kaggle
+python-dotenv
+pandas
+lightgbm
+xgboost
+scikit-learn
+optuna
+shap
+fastapi
+uvicorn
+pyarrow
+pyspark
+jupyter
+matplotlib
+seaborn

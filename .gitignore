@@ -1,0 +1,9 @@
+.venv/
+data/
+CLAUDE.md
+outputs/models/
+.env
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
